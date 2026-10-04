@@ -1,0 +1,39 @@
+{
+  "name": "kalpa-ads-ai",
+  "version": "1.0.0",
+  "description": "KALPA ADS AI - AI-powered advertising platform with campaign management",
+  "author": "DIPUL TIWARI",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "next": "^14.2.15",
+    "typescript": "^5.5.4",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@types/node": "^20.14.12",
+    "tailwindcss": "^3.4.1",
+    "postcss": "^8.4.38",
+    "autoprefixer": "^10.4.19",
+    "lucide-react": "^0.408.0",
+    "axios": "^1.7.7",
+    "zod": "^3.23.8",
+    "react-hook-form": "^7.51.4",
+    "@hookform/resolvers": "^3.3.4",
+    "react-hot-toast": "^2.4.1",
+    "zustand": "^4.4.7",
+    "date-fns": "^3.6.0",
+    "chart.js": "^4.4.1",
+    "react-chartjs-2": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.15"
+  }
+}
